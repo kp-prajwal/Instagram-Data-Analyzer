@@ -2,7 +2,8 @@
 Work in progress! ⚠️
 
 Things to do :
-- refactor whole code
+- study how projects are organized
+- refactor whole code - 30% done
 - avoid redundant variable names
 - write code in the form of functions
 - save charts generated in a folder
