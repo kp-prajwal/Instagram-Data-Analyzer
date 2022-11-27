@@ -1,4 +1,4 @@
-# Instgram Data Analyzer
+# Instagram Data Analyzer
 Work in progress! ⚠️
 
 Things to do :
