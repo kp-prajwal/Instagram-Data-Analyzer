@@ -8,7 +8,7 @@ Work in progress! ⚠️
     {
       "string_map_data": {
         "Comment": {
-          "value": "@user This is a comment! The structure looks somewhat like this. \u00f0\u009f\u0098\u0082
+          "value": "@user This is a comment! The structure looks somewhat like this. \u00f0\u009f\u0098\u0082"
         },
         "Time": {
           "value": "Apr 19, 2017, 3:35 AM"
