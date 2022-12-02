@@ -34,6 +34,24 @@ The data used in this project is for my
   - You'll soon receive an email titled Your Instagram Data with a link to your data. Click Download data and follow the instructions to finish downloading your information.
 
 For more info : [Downloading Instagram Data](https://help.instagram.com/181231772500920/?helpref=uf_share)
+#### Instagram Post Comments Structure - Example
+```json
+{
+  "comments_media_comments": [
+    {
+      "string_map_data": {
+        "Comment": {
+          "value": "@user This is a comment! The structure looks somewhat like this. \u00f0\u009f\u0098\u0082"
+        },
+        "Time": {
+          "value": "Apr 19, 2017, 3:35 AM"
+        }
+      }
+    },
+		...
+	]
+}
+
 ## Featured Notebooks/Analysis/Deliverables
 * [Post Comments Notebook](link)
 * Presentation [to be added]
