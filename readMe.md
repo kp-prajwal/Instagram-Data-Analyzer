@@ -48,9 +48,10 @@ For more info : [Downloading Instagram Data](https://help.instagram.com/18123177
         }
       }
     },
-		...
+		
 	]
 }
+```
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Post Comments Notebook](link)
