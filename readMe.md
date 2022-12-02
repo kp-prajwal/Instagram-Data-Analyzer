@@ -11,10 +11,11 @@ The purpose of this project is investigate my Instagram activity - post/reel com
  
 
 ## Project Description
-The data used in this project is for my
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-
+The data used in this project is from my Instagram activity extracted from their website. More details on that below.
+The questions that I have tried to answer from this project till now are : 
+1. In which **year** have I been most active in comments section?
+2. In which **month** have I been most active in comments section?
+3. On what date do I usually comment the most?
 ## Installation
 
 ```bash
