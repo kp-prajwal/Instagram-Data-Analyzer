@@ -1,9 +1,9 @@
 
 # Instagram Data Analyzer
 
-A personal project to analyze my Instagram activity from 2016-2022 using Pythonic libraries.
+A personal project to analyze my Instagram activity from 2016-2022 using Pythonic libraries. Scroll down to view the results.
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Project Objective
 The purpose of this project is investigate my Instagram activity - post/reel comments, followers/following history, media likes etc.
@@ -54,14 +54,11 @@ For more info : [Downloading Instagram Data](https://help.instagram.com/18123177
 }
 ```
 
-## Featured Notebooks/Analysis/Deliverables
-* Charts added in 'visualizations' folder
-* Presentation [to be added]
-## Roadmap
-
-- Integration of Streamlit
-- Explore media related data
-- Summarize understanding (ppt)
+## Results
+![comments by year](visualizations/commentsByYear.png)
+![comments by time](visualizations/commentsbyTime.png)
+![comments by month](visualizations/commentsByMonth.png)
+![comments by date](visualizations/commentsByDate.png)
 
 ## License
 
